@@ -39,7 +39,7 @@ Sulabh Kumra, Shirin Joshi, Ferat Sahin
 ## Installation
 - Checkout the robotic grasping package
 ```bash
-$ git clone https://github.com/Mr-Zwkid/PRP_Optimized_GR-ConvNet.git
+$ git clone https://github.com/Mr-Zwkid/grasping-detection-prp.git gr-convnet
 ```
 
 - Create a virtual environment
@@ -54,7 +54,7 @@ $ source venv/bin/activate
 
 - Install the requirements
 ```bash
-$ cd PRP_Optimized_GR-ConvNet
+$ cd gr-convnet
 $ pip install -r requirements.txt
 ```
 
